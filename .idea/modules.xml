@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/step1camera/step1camera.iml" filepath="$PROJECT_DIR$/step1camera/step1camera.iml" />
-      <module fileurl="file://$PROJECT_DIR$/step2loopback/step2loopback.iml" filepath="$PROJECT_DIR$/step2loopback/step2loopback.iml" />
-      <module fileurl="file://$PROJECT_DIR$/step3signaling/step3signaling.iml" filepath="$PROJECT_DIR$/step3signaling/step3signaling.iml" />
-      <module fileurl="file://$PROJECT_DIR$/step4multipeers/step4multipeers.iml" filepath="$PROJECT_DIR$/step4multipeers/step4multipeers.iml" />
-      <module fileurl="file://$PROJECT_DIR$/webrtc-android-tutorial.iml" filepath="$PROJECT_DIR$/webrtc-android-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WebRTCDevelopment.webrtc-android-tutorial.iml" filepath="$PROJECT_DIR$/.idea/modules/WebRTCDevelopment.webrtc-android-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/step1camera/webrtc-android-tutorial.step1camera.iml" filepath="$PROJECT_DIR$/.idea/modules/step1camera/webrtc-android-tutorial.step1camera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/step2loopback/webrtc-android-tutorial.step2loopback.iml" filepath="$PROJECT_DIR$/.idea/modules/step2loopback/webrtc-android-tutorial.step2loopback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/step3signaling/webrtc-android-tutorial.step3signaling.iml" filepath="$PROJECT_DIR$/.idea/modules/step3signaling/webrtc-android-tutorial.step3signaling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/step4multipeers/webrtc-android-tutorial.step4multipeers.iml" filepath="$PROJECT_DIR$/.idea/modules/step4multipeers/webrtc-android-tutorial.step4multipeers.iml" />
     </modules>
   </component>
 </project>

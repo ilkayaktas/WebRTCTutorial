@@ -68,7 +68,7 @@ public class MainActivity extends AppCompatActivity {
         // create VideoTrack
         VideoTrack videoTrack = peerConnectionFactory.createVideoTrack("100", videoSource);
 //        // display in localView
-//        videoTrack.addSink(localView);
+        videoTrack.addSink(localView);
 
 
 
@@ -87,7 +87,7 @@ public class MainActivity extends AppCompatActivity {
         // create VideoTrack
         VideoTrack remoteVideoTrack = peerConnectionFactory.createVideoTrack("102", remoteVideoSource);
 //        // display in remoteView
-//        remoteVideoTrack.addSink(remoteView);
+        remoteVideoTrack.addSink(remoteView);
 
 
 
